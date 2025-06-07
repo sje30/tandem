@@ -9,8 +9,10 @@ lightbox:
 ---
 
 
-For sale: 350 pounds.  Collection from Girton (CB3 0NN) or possibly in
-Cambridge city by arrangement.  For further details please email me: stephen@eglen.org.uk
+<!-- For sale: 350 pounds.  Collection from Girton (CB3 0NN) or possibly in -->
+<!-- Cambridge city by arrangement.  For further details please email me: stephen@eglen.org.uk -->
+
+SOLD.
 
 
 ![Thorn Voyager Kiddyback tandem](images/overview-5.jpg){group="my-gallery"}
